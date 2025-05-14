@@ -1,0 +1,6 @@
+com\integracion\jcoq\controller\UsuarioController.class
+com\integracion\jcoq\repository\UsuarioRepository.class
+com\integracion\jcoq\model\Usuario.class
+com\integracion\jcoq\repository\UsuarioRepository$1.class
+com\integracion\jcoq\IntegracionJcoqApplication.class
+com\integracion\jcoq\service\UsuarioService.class
