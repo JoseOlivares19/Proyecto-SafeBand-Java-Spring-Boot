@@ -11,7 +11,7 @@ public class Usuario {
     private String frec_resp;
     private String presion;
     private String fecha;
-
+    private String contrasena;
 
 
     public Usuario() {
@@ -60,6 +60,13 @@ public class Usuario {
 
     public void setCorreo(String correo) {
         this.correo = correo;
+    }
+    public String getContrasena() {
+        return contrasena;
+    }
+
+    public void setContrasena(String contrasena) {
+        this.contrasena = contrasena;
     }
 
     public String getPulso() {
